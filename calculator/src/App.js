@@ -10,6 +10,7 @@ function App() {
 
   
   function numberButton(input) {
+    
     if (displayNumber === 0) {
       setDisplayNumber(input)
       setValueOne(input)
